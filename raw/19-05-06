@@ -1,0 +1,21 @@
+# Titles are dying with the next generation
+
+While the previous generations place large importance on their titles and distinctions, it has become much more socially appealing to display yourself as a humble commoner. 
+We try to be the cool kids, and don't seek to elevate ourselves above those without the same title. 
+Actions speak far louder than words in the age when everything can be displayed. 
+Historically, the only way to convey one's prestige was through the acknoledgement of others, being knighted and graduation were testiments from a trusted organization that you passed some set of qualifications. These titles show that others believe in you.
+Now that anyone can publicly display everything they can do online, it is much less important to have testiment from others. 
+The titles become irrelevant. 
+Your credibility comes from your actions and not others.
+Reputation will be earned, not given. 
+
+This is a good thing. A future without titles leads to greater equality and better treatment of all, not just those who were fortunate enough to find someone to bestow a title.
+In some ways this will be the democratization of prestige. The Internet allows for a proof of competency. 
+
+However, with this idea comes the same set of issues present with all other benefits of the Internet. We can lie, trick, and confuse larger masses of people through the information found on the web.
+One solution around this is Content Curation as a Service (CCaaS), which looks to find reputable information and disseminate that to followers much the same as news of the 20th century did. These CCaaSs provide specific insights into what they believe to be relevant, and often provide brief descriptions or reasoning behind each topic mentioned. 
+This solution circles back to the current title'd approach. We will delegate to certain establishments or people to do our fact checking, and accredidation for us, to save us the work of doing it ourselves.
+This is effectively transfer the burden of titling to these CCaaSs, as opposed to Universities or monarchs. Despite this, we will potentially still have a big win. It is significantly easier for multiple CCaaSs to accredit a single author, painter, thinker than for multiple universities. Drawing upon ideas from distributed systems, we can see this as attempting to find consensus among multiple sources instead of a single monolithic source. 
+Familiar to some, the Stellar Consensus Protocol allows for an individual who trusts some small subset of all CCaaS to establish consensus on the creditability of a source through quorum slices of the whole network of CCaaS.
+
+It is at this point that I see I have diverged significantly from the original idea of the writing session, but can't help but to think this is a legitimate idea.
