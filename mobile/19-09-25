@@ -1,0 +1,93 @@
+Proposal for: Linguistic
+Similarity Embeddings using
+Siamese Neural Networks.
+
+Previous work has show the
+effectiveness of siamese
+networks at creating an
+n-dimensional mapping from
+input to output based on
+similarity features.
+These networks exploit the
+same architectures of
+traditional neural nets,
+however, instead of a single
+input, siamese nets will take
+two input samples and learn to
+map their features to a
+"similar" location in the
+n-dimensional result space.
+A "similar location" can be
+defined by any reasonable
+distance metric: euclidean
+distance and cosine similarity
+are mostly commonly used.
+
+One the network learns to
+embed its training pairs it
+has built clusters of
+concepts. Provided strong
+input data, the space will be
+able to map new inputs it has
+never seen onto previously
+established clusters and even
+create entirely new clusters
+as it sees fit.
+
+Siamese networks have famously
+been used to perform facial
+recognition, where input data
+is separated into different
+angles on a single face, but
+recently they have been used
+to perform other normalization
+tasks such as named entity
+normalization in chemical and
+protein entities.
+
+I propose using siamese
+networks to model the
+similarity between words
+through the evolution of
+language. Language evolution
+is fluid and new words are
+often simply variants of old
+words. Using pairs of (known)
+new and old word pairs as
+input, the goal would be to
+discover what could
+potentially be other
+transitions we might have
+missed in language
+documentation over the years.
+Additionally, this work would
+have cross-language
+application.
+
+Using etymology databases it
+is possible to find the
+history of tens of thousands
+of different words across many
+languages. Initially the
+project would only be scoped
+to look at the history of a
+single language but it is
+possible we could better train
+a model to learn two child
+languages and one parent
+language (children: spanish,
+french, parent: latin).
+
+Finally, there is the
+possibility to convert the
+process into a sequence to
+sequence network and attempt
+to recreate historic versions
+of modern terms.
+This seq-to-seq network, if
+functional, could potentially
+make great estimates at
+ancient and prehistoric
+languages, recognizing
+patterns that no human could.
+
