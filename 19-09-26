@@ -1,0 +1,74 @@
+Truth 
+n.  
+The quality or state of being:
+1. In accordance with fact or reality
+2. Accurate or exact
+
+Charles Hockett describes 13 (later 16) fundamental design features of any full
+language.
+9 of the original 13 are found in primate (and some other unexpected animals')
+interactions, while the other four are unique to humans.
+Some of these features are quite obvious: 
+To have a language, there must be a channel on which to communicate. Often
+that is a vocal/auditory channel, but it could just as easily be visual/written,
+or physical/visual.
+To have a language, meaning must be tied to the sounds, symbols or actions
+of the language. We would not be able to communicate if there did not exist some
+understanding of meaning between speaker and listener.
+Less obvious are features like Interchangeability, Displacement, and
+Prevarication.
+In order:
+Interchangeability describes the idea that any member of a language
+community can convey any part of the language regardless of the veracity of the
+statement. For example, I can easily say "I am in Spain" at the same time as "I
+am in Russia." Neither are correct, there is not an inherent linguistic
+restriction preventing me from saying either one. This feature is not seen in
+some animal languages. Ant queens secrete a unique chemical compound to express
+meaning to the hive, since no other ants can synthesize that compound, there is
+not interchangeability in the ants' communication. This feature is the
+embodiment of a lack of authentication. Our ability to communicate falsehoods
+(by meaning) stems from the lack of authentication needed to create a statement.
+If we communicated with pheromones like the ants do, it might be impossible for
+me to say "I am female" since the language itself restricts my ability to
+deceive. *rough*
+Humans are special in that we can discuss concepts and topics of distant or
+imaginary content. It is with no difficulty that a reader can imagine an
+elephant parading while wearing a small hat, despite having most likely never
+actually seen one in real life. Displacement is our ability to address these
+things not in our physical presence. There are some animals which have the
+ability to "relay" displaced information, for example howler monkeys have been
+observed sharing warning cries from other monkeys despite not being in the
+physical presence of danger itself, however displacement in the general sense is
+thought to be unique (on Earth) to human languages.
+Finally, Prevarication (literally "a violation of duty" from Latin) is the
+ability to lie. Built on the idea of no language level authentication and
+displacement, it is possible for anyone to speak false about anything --
+regardless of direct connection or the speaker's real knowledge.
+
+The discussion and motivation up to this point in my writing has not been
+subtle. Deception in our language is inherent in its design; being a
+(programming) language enthusiast(?), this flaw is hard for me to accept. So I
+would like to examine what our language could look like under different
+circumstances. A world without Interchangeability, Displacement, Prevarication
+or some combination of those.
+
+It is easy to believe the world we interact directly with; there is no doubt
+that the chair you are sitting in is as real as you are.
+
+
+
+
+What if we need a new language for communication -- a language that has
+authentication, privacy, integrity and confidentiality (the four pillars of
+security).
+There are two definitions of authentication which could be used here. First,
+that it is possible to authenticate that a message came from the expected
+sender. This is the traditional sense of authentication used in computer
+science. A second, stronger restriction could be placed on the language
+requiring that the content of a message must be verifiable of the sender. This
+goal is most likely not attainable due to the complexity of what we need to
+discuss in language. As described above, displacement is a necessary feature of
+language -- without it we would hardly be different than chimpanzees in
+linguistic ability.
+
+
